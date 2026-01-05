@@ -1,1 +1,3 @@
 # consensus-evaluator
+
+Consensus Evaluator is an agentic module designed to integrate into the Asta "Paper Finder" pipeline. While LLMs successfully automate the synthesis of academic literature, the resulting efficiency can inadvertently remove the "contextual intuition" a human researcher gains from manual discovery. This module ensures users aren't presented with a "false sense of certainty" by explicitly surfacing the scientific consensus—or lack thereof—within the retrieved papers.
